@@ -8,4 +8,4 @@ Here I built a simple moving platform plus a switch that you can optionally buil
 and then activate it as a player, which then activates the platform
 
 
-Created in Unity Engine/C#![Uploading bII9ta.png…]()
+Created in Unity Engine/C#
